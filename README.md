@@ -15,3 +15,6 @@ Este proyecto proporciona funciones para gestionar pedidos utilizando **AWS Dyna
    ```bash
    npm install -g serverless
    ```
+
+
+![](https://samcp.me/projects/Pedidos-Serverless.png)
